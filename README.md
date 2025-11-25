@@ -136,3 +136,11 @@ Select "Mail" and "Other"
 
 Copy 16-digit password (no spaces)
 
+📁 File Structure
+/ESP32-Door-Alert
+  ├── README.md
+  ├── door_alert.ino     ← MAIN CODE
+  ├── captured.jpg       ← Sample capture
+  └── wiring_diagram.png ← (optional
+
+
